@@ -2,4 +2,35 @@ CS Data Strucrtures
 
 Part 1
 
-1.
+RUNTIME
+1. The number of crackers in the box.
+
+2. 
+O(1)
+O(log n)
+O(n)
+O(2n)
+O(n log n)
+O(n2)
+
+STACKS
+1.1. Stack
+1.2. Queue
+1.3. Stack
+2.  Getting in line for cofee
+    Getting in line for the restroom
+3.  To eat Panckes
+    To wash dishes
+    
+LINKED LISTS
+1. This list has 3 nodes that have as data "Apple","Berry" and "Cherry" respectively. Each node has the data and the pointer to the next node.
+Meaning the box with the data, and the pointer to the next, which is the arrow.
+The node "Cherry" would be the tail node, and the node "Apple" is the head node.
+
+2.  Single linked list is the one in the figure, we can only go in one direction.
+Doubled Linked is when the nodes have 2 pointers, one pointing to the next node, and one pointing to the previous node.
+
+3. Because then we only change the pointer of the tail to point to the new node and update the 'tail' pointer to the new node.
+
+
+TREES
