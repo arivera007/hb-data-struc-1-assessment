@@ -34,3 +34,8 @@ Doubled Linked is when the nodes have 2 pointers, one pointing to the next node,
 
 
 TREES
+
+1. Food->Mexican->Indian->Italian->Enchiladas->Tacos_Burritos
+2. Food->Italian->Lasagna->pizza->thin-crust->Chigago-style
+3. Binary trees have only 2 children per node max.
+
